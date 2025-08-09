@@ -124,7 +124,7 @@ If you want to add some features and resolve any issues then just fork the repos
 
 # Author
 
-### 👨‍💻 Muhib Arshad
+### 👨‍💻 Abhay Chauhan
 
    <div align="center">
 <p align="center">Let's connect!</p>
@@ -143,7 +143,7 @@ Please ⭐️ this repository if this project helped you!
 
 You can also follow my GitHub Profile to stay updated:
 <a href="https://github.com/abhay89233" target="blank">
-@muhib7353
+@abhay89233
 </a>
 
 
